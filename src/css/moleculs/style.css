@@ -1,0 +1,18 @@
+@import url(/css/atoms/header.css);
+@import url(/css/atoms/carousel.css);
+@import url(/css/atoms/forms.css);
+@import url(/css/atoms/cards.css);
+
+/* fonts 
+------------------------*/
+body, html {
+    font-family: "Roboto", sans-serif;
+}
+
+/* color
+--------------------- */
+:root {
+    --one: #000000;
+    --two: #21963a;
+    --three: #ffffff;
+}
