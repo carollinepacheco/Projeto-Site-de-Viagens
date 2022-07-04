@@ -1,7 +1,6 @@
-@import url(/css/atoms/header.css);
-@import url(/css/atoms/carousel.css);
-@import url(/css/atoms/forms.css);
-@import url(/css/atoms/slide_cards.css);
+@import url(../atoms/header.css);
+@import url(../atoms/forms.css);
+@import url(../atoms/slide_cards.css);
 
 /* fonts 
 ------------------------*/
