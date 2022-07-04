@@ -1,0 +1,53 @@
+#header {
+    width: 100%;
+    background-color: #21963a;
+    transition: background ease-out 0.3s;
+}
+
+#header .navbar-collapse {
+    width: auto;
+}
+
+#header .logo1 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 0;
+}
+
+#header .logo2 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#header .logo3 {
+    color: #000000;
+    font-weight: 500;
+}
+
+#header .nav-link {
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding-left: 0;
+    padding-right: 0;
+    border-bottom: solid 2px transparent;
+    color: #ffffff;
+
+}
+
+#header .nav-link:hover {
+    border-bottom: solid 2px var(--one);
+    color: var(--one)
+}
+
+#header .nav-navbar {
+    margin-top: 5px;
+}
+
+#middle {
+    margin-top: -80vh;
+    height: 80vh;
+}
+
